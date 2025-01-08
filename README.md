@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Hi! I’m [Your Name], a Bioinformatics Scientist with a PhD in Bioinformatics and over 6 years of experience in computational biology, single-cell transcriptomics, and circular RNA research.
+Hi! I’m Kalpani de Silva, a Bioinformatics Scientist with a PhD in Bioinformatics and over 6 years of experience in computational biology, single-cell transcriptomics, and circular RNA research.
 
 ## 🔬 Expertise
 - Genomic data analysis (WGS, RNA-Seq, circRNA)
@@ -18,8 +18,4 @@ Hi! I’m [Your Name], a Bioinformatics Scientist with a PhD in Bioinformatics a
 
 Feel free to explore my repositories and connect with me for collaborations!
 
----
 
-### 🌐 Links
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
