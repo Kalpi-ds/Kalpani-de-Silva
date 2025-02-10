@@ -10,7 +10,7 @@ Hi! I’m Kalpani de Silva, a Bioinformatics Scientist with a PhD in Bioinformat
 ## 💻 Tools and Languages
 - Python (NumPy, pandas, matplotlib, seaborn, scikit-learn, TensorFlow)
 - R (dplyr, tidyr, ggplot2, msigdbr, biomart, clusterprofiler, seurat, scDblFinder, harmony, slingshot, DESeq2, HTSeq, DEXSeq2, rMATS, ClusterProfiler, GSEA)
-- Bash
+- Bash in HPC environment(Slurm, PBS)
 - Sequence Mapping & Variant Calling tools (BWA, STAR, Samtools, GATK, VCFtools, BCFtools, and BEDtools)
 
 ## 🌟 Projects
